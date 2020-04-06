@@ -2,6 +2,10 @@
 Uses voting from NaiveBayes, LinearSVC, MultinomialBinary, BernoulliNB, Logistic Regression for final result
 
 
+## About the training dataset
+
+- The dataset is a collection of some ~10000 postive and negative reviews.
+
 ## External Python Dependencies
 
 - python7.7.7
